@@ -90,7 +90,7 @@ const BookDetails = () => {
     setModalVisible(true);
   };
 
-  // Hardcoded book details
+  // Book details
   const book = {
     title: 'Bald Bearded Boss',
     author: 'Elliott Holt',
@@ -114,7 +114,7 @@ const BookDetails = () => {
             src="https://via.placeholder.com/64" 
             className="profile-avatar"
           />
-          <h2>Sarah Johnson</h2>
+          <h2>Sasindu Nadeeshan</h2>
           <p>Book Enthusiast</p>
         </div>
         <nav>
